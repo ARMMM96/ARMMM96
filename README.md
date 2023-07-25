@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there👋
+<h1 align="center">I'm Ahmed Rabie Mahmoud Mohamed </h1>
+<h3 align="center">Software developer</h3>
 
-<!--
-**ARMMM96/ARMMM96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently develop projcets using **Node JS and Express Framework**
+- 🌱 I’m currently learning **Java, Spring**
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with Improve my problem solving abilities, working with team and be more communicative
+- 💬 Ask me about:   What i am welling to create 
+- 📫 How to reach me: **ahmed.rabie.mahmoud.96@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I was trying to be a frontned but now i love to work on the backend more than anything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
