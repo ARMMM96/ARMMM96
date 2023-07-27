@@ -3,25 +3,40 @@
 <h3 align="center">Software developer</h3>
 
 
-- 🔭 I’m currently develop projcets using **Node JS and Express Framework**
-- 🌱 I’m currently learning **Java, Spring**
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with Improve my problem solving abilities, working with team and be more communicative
-- 💬 Ask me about:  What i am willing to create open source CRM to help startups and small business to manage their customers data
-- 📫 How to reach me: **ahmed.rabie.mahmoud.96@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I was trying to be a frontned but now i love to work on the backend more than anything
+<br> 🔭 I’m currently develop projcets using **Node JS and Express Framework**
+<br> 🌱 I’m currently learning **Java, Spring**
+<br> 👯 I’m looking to collaborate on open source projects
+<br> 🤔 I’m looking for help with Improve my problem solving abilities, working with team and be more communicative
+<br> 💬 Ask me about:  What i am willing to create open source CRM to help startups and small business to manage their customers data
+<br> 📫 How to reach me: **ahmed.rabie.mahmoud.96@gmail.com**
+<br> ⚡ Fun fact: I was trying to be a frontned but now i love to work on the backend more than anything
+
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armmm96&show_icons=true&locale=en&layout=compact" alt="armmm96" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armmm96&show_icons=true&locale=en" alt="armmm96" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ARMMM96&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARMMM96&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+                    ![](https://github-readme-streak-stats.herokuapp.com/?user=ARMMM96&theme=dark&hide_border=true)<br/>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ARMMM96&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
